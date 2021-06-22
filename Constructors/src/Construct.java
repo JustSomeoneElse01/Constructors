@@ -34,7 +34,7 @@ public class Construct {
 		new Machine(100);
 		new Machine("bruh");
 		new Machine(123, "lol");
-		new Machine(0, 0, 0);
+		new Machine(1, 0, 0);
 
 	}
 
